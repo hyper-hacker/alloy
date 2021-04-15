@@ -7,7 +7,7 @@ A web proxy for use in combating web filters.
 
 ```sh
 git clone https://github.com/omer515/alloy.git
-cd alloyproxy
+cd alloy
 node server.js
 ```
 
