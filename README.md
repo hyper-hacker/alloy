@@ -6,7 +6,7 @@ A web proxy for use in combating web filters.
 ## Running locally
 
 ```sh
-git clone https://github.com/titaniumnetwork-dev/alloyproxy.git
+git clone https://github.com/omer515/alloy.git
 cd alloyproxy
 node server.js
 ```
